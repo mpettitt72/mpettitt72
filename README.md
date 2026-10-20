@@ -64,4 +64,14 @@
   </tr>
 </table>
 
+### 📫 Get in touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matthew-pettitt-3a56752a7"><img src="assets/linkedin-badge.svg" alt="LinkedIn: Matthew Pettitt" /></a>
+  &nbsp;
+  <a href="mailto:matthewpdpettitt@gmail.com"><img src="assets/email-badge.svg" alt="Email: matthewpdpettitt@gmail.com" /></a>
+</p>
+
+<p align="center"><sub>📍 Birmingham, UK · Happy to chat about graduate and junior roles, or any app ideas</sub></p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1B3E&height=100&section=footer" width="100%" />
