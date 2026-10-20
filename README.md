@@ -2,9 +2,9 @@
 
 <h1>Hi, I'm Matt 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E10600&center=true&vCenter=true&width=520&lines=Native+iOS+apps+in+Swift;Android+apps+in+Java;Cross-platform+apps+with+React+Native;Firebase+%7C+Supabase+%7C+REST+APIs;Open+to+graduate+developer+roles" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Native+iOS+apps+in+Swift;Android+apps+in+Java;Cross-platform+apps+with+React+Native;Firebase+%7C+Supabase+%7C+REST+APIs;Open+to+graduate+developer+roles" alt="Typing SVG" /></a>
 
-<a href="https://inspec-studio.com"><img src="https://img.shields.io/badge/Website-inspec--studio.com-E10600?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://inspec-studio.com"><img src="https://img.shields.io/badge/Website-inspec--studio.com-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
 </div>
 
@@ -33,7 +33,7 @@
       <h3><a href="https://github.com/mpettitt72/F1Hub">🏎️ F1 Hub</a></h3>
       <p>A Formula 1 companion app for Android: race calendar with countdowns, live championship standings, driver profiles, synced favourites and race-day reminders.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-E10600?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-2F81F7?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square" />
@@ -52,4 +52,4 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:0A0E1A&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1B3E&height=100&section=footer" width="100%" />
