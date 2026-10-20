@@ -30,6 +30,19 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://apps.apple.com/app/id6751477419"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/14/dc/4914dc23-8dea-36bc-6974-5c7932d2f1d9/Placeholder.mill/400x400Icon.ApSiOS01-75.jpg" width="96" align="left" alt="FlowFit icon" /></a>
+      <h3>⭐ FlowFit: Workout Tracker <sub><sup>· live on the App Store</sup></sub></h3>
+      <p>A workout and nutrition tracker for iPhone that I designed, built and shipped to the App Store myself. You can log meals and workouts, track calories and macros with AI-assisted analysis, build custom foods and meals, and follow your progress through daily, weekly and monthly analytics.</p>
+      <p>
+        <b>Case study:</b> I took it from idea to production: product design, a subscription business model, and App Store submission and review. It's rated <b>5.0 ★</b> on the App Store.
+      </p>
+      <p>
+        <a href="https://apps.apple.com/app/id6751477419"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mpettitt72/F1Hub">🏎️ F1 Hub</a></h3>
       <p>A Formula 1 companion app for Android: race calendar with countdowns, live championship standings, driver profiles, synced favourites and race-day reminders.</p>
