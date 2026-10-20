@@ -38,7 +38,6 @@
       <p>
         <a href="https://apps.apple.com/app/id6751477419"><img src="assets/appstore-badge.svg" alt="Download on the App Store" /></a>
       </p>
-      <img src="assets/spacer.svg" width="2000" height="1" alt="" />
     </td>
   </tr>
   <tr>
@@ -67,23 +66,20 @@
 
 ### 📫 Get in touch
 
+📍 **Birmingham, UK** · Open to graduate and junior developer roles
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>💼 LinkedIn</h3>
-      <p>Connect with me and see my education and experience.</p>
+      <p>Connect with me on LinkedIn to see my education, experience and latest updates.</p>
       <p><a href="https://www.linkedin.com/in/matthew-pettitt-3a56752a7"><img src="assets/linkedin-badge.svg" alt="LinkedIn: Matthew Pettitt" /></a></p>
-      <img src="assets/spacer.svg" width="2000" height="1" alt="" />
     </td>
     <td width="50%" valign="top">
       <h3>✉️ Email</h3>
-      <p>The quickest way to reach me about roles or projects.</p>
+      <p>The quickest way to reach me about job roles, collaborations or app projects.</p>
       <p><a href="mailto:matthewpdpettitt@gmail.com"><img src="assets/email-badge.svg" alt="Email: matthewpdpettitt@gmail.com" /></a></p>
-      <img src="assets/spacer.svg" width="2000" height="1" alt="" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><p>📍 <b>Birmingham, UK</b> · Open to graduate and junior developer roles</p></td>
   </tr>
 </table>
 
