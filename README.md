@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>Hi, I'm Matt 👋</h1>
+<img src="assets/banner.svg" width="100%" alt="Matt Pettitt, Mobile App Developer" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Apps+with+React+%26+React+Native;Android+apps+in+Java;Currently+learning+Swift+%26+iOS;Firebase+%7C+Supabase+%7C+REST+APIs;Open+to+graduate+developer+roles" alt="Typing SVG" /></a>
+<br />
 
-<a href="https://inspec-studio.com"><img src="assets/website-badge.svg" alt="Website" /></a>
+<a href="https://inspec-studio.com"><img src="assets/projects-badge.svg" alt="My Projects: inspec-studio.com" /></a>
 
 </div>
 
@@ -15,7 +15,7 @@
 - 🎓 **BSc Computer Science (2:1)** from Birmingham City University
 - 📱 I build apps with React and React Native (Expo), plus native Android apps in Java
 - 🌱 Currently learning **Swift** and native **iOS** development
-- 🔭 Currently looking for **graduate / junior developer** roles
+- 🔭 Looking for **graduate / junior developer** roles
 - ⚡ I like apps that make data easy to read, from F1 stats to workout progress
 
 ### 🛠️ Tech stack
@@ -32,7 +32,8 @@
   <tr>
     <td colspan="2" valign="top">
       <a href="https://apps.apple.com/app/id6751477419"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/14/dc/4914dc23-8dea-36bc-6974-5c7932d2f1d9/Placeholder.mill/400x400Icon.ApSiOS01-75.jpg" width="96" align="left" alt="FlowFit icon" /></a>
-      <h3>⭐ FlowFit: Workout Tracker <sub><sup>· live on the App Store</sup></sub></h3>
+      <h3>⭐ FlowFit: Workout Tracker</h3>
+      <p><sub>📲 <b>Live on the App Store</b> · iPhone</sub></p>
       <p>A workout and nutrition tracker for iPhone that I designed, built and shipped to the App Store myself. You can log meals and workouts, track calories and macros with AI-assisted analysis, build custom foods and meals, and follow your progress through daily, weekly and monthly analytics.</p>
       <p>
         <a href="https://apps.apple.com/app/id6751477419"><img src="assets/appstore-badge.svg" alt="Download on the App Store" /></a>
