@@ -28,7 +28,7 @@
 
 ### 🚀 Featured projects
 
-<table>
+<table width="100%">
   <tr>
     <td colspan="2" valign="top">
       <a href="https://apps.apple.com/app/id6751477419"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/14/dc/4914dc23-8dea-36bc-6974-5c7932d2f1d9/Placeholder.mill/400x400Icon.ApSiOS01-75.jpg" width="96" align="left" alt="FlowFit icon" /></a>
@@ -66,7 +66,7 @@
 
 ### 📫 Get in touch
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>💼 LinkedIn</h3>
