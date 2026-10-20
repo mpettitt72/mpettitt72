@@ -81,7 +81,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><sub>📍 Birmingham, UK · Open to graduate and junior developer roles</sub><br /><img src="assets/spacer.svg" width="2000" height="1" alt="" /></td>
+    <td colspan="2" align="center">📍 <b>Birmingham, UK</b> · Open to graduate and junior developer roles<br /><img src="assets/spacer.svg" width="2000" height="1" alt="" /></td>
   </tr>
 </table>
 
