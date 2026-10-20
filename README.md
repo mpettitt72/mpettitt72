@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Matt Pettitt, Mobile App Developer" />
+<img src="assets/header.svg" width="100%" alt="Matthew Pettitt, Junior Software Engineer" />
 
 <br />
 
