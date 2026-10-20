@@ -35,9 +35,6 @@
       <h3>⭐ FlowFit: Workout Tracker <sub><sup>· live on the App Store</sup></sub></h3>
       <p>A workout and nutrition tracker for iPhone that I designed, built and shipped to the App Store myself. You can log meals and workouts, track calories and macros with AI-assisted analysis, build custom foods and meals, and follow your progress through daily, weekly and monthly analytics.</p>
       <p>
-        <b>Case study:</b> I took it from idea to production: product design, a subscription business model, and App Store submission and review. It's rated <b>5.0 ★</b> on the App Store.
-      </p>
-      <p>
         <a href="https://apps.apple.com/app/id6751477419"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" /></a>
       </p>
     </td>
