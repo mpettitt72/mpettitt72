@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Matt 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Native+iOS+apps+in+Swift;Android+apps+in+Java;Cross-platform+apps+with+React+Native;Firebase+%7C+Supabase+%7C+REST+APIs;Open+to+graduate+developer+roles" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Apps+with+React+%26+React+Native;Android+apps+in+Java;Currently+learning+Swift+%26+iOS;Firebase+%7C+Supabase+%7C+REST+APIs;Open+to+graduate+developer+roles" alt="Typing SVG" /></a>
 
 <a href="https://inspec-studio.com"><img src="https://img.shields.io/badge/Website-inspec--studio.com-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
@@ -13,7 +13,8 @@
 ### 👋 About me
 
 - 🎓 **BSc Computer Science (2:1)** from Birmingham City University
-- 📱 I build mobile apps: native iOS apps in Swift, native Android apps in Java, and cross-platform apps with React Native and Expo
+- 📱 I build apps with React and React Native (Expo), plus native Android apps in Java
+- 🌱 Currently learning <b>Swift</b> and native <b>iOS</b> development
 - 🔭 Currently looking for **graduate / junior developer** roles
 - ⚡ I like apps that make data easy to read, from F1 stats to workout progress
 
@@ -21,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,java,ts,js,react,androidstudio,firebase,supabase,sqlite,nodejs,html,css,tailwind,git,github,vscode&perline=8" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,java,swift,androidstudio,firebase,supabase,sqlite,nodejs,html,css,tailwind,git,github,vscode&perline=8" alt="Tech stack" />
   </a>
 </p>
 
