@@ -66,12 +66,22 @@
 
 ### 📫 Get in touch
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matthew-pettitt-3a56752a7"><img src="assets/linkedin-badge.svg" alt="LinkedIn: Matthew Pettitt" /></a>
-  &nbsp;
-  <a href="mailto:matthewpdpettitt@gmail.com"><img src="assets/email-badge.svg" alt="Email: matthewpdpettitt@gmail.com" /></a>
-</p>
-
-<p align="center"><sub>📍 Birmingham, UK · Happy to chat about graduate and junior roles, or any app ideas</sub></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 LinkedIn</h3>
+      <p>Connect with me and see my education and experience.</p>
+      <p><a href="https://www.linkedin.com/in/matthew-pettitt-3a56752a7"><img src="assets/linkedin-badge.svg" alt="LinkedIn: Matthew Pettitt" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✉️ Email</h3>
+      <p>The quickest way to reach me about roles, projects or app ideas.</p>
+      <p><a href="mailto:matthewpdpettitt@gmail.com"><img src="assets/email-badge.svg" alt="Email: matthewpdpettitt@gmail.com" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub>📍 Birmingham, UK · Open to graduate and junior developer roles</sub></td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1B3E&height=100&section=footer" width="100%" />
