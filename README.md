@@ -14,7 +14,7 @@
 
 - 🎓 **BSc Computer Science (2:1)** from Birmingham City University
 - 📱 I build apps with React and React Native (Expo), plus native Android apps in Java
-- 🌱 Currently learning <b>Swift</b> and native <b>iOS</b> development
+- 🌱 Currently learning **Swift** and native **iOS** development
 - 🔭 Currently looking for **graduate / junior developer** roles
 - ⚡ I like apps that make data easy to read, from F1 stats to workout progress
 
