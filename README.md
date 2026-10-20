@@ -38,6 +38,7 @@
       <p>
         <a href="https://apps.apple.com/app/id6751477419"><img src="assets/appstore-badge.svg" alt="Download on the App Store" /></a>
       </p>
+      <img src="assets/spacer.svg" width="2000" height="1" alt="" />
     </td>
   </tr>
   <tr>
@@ -62,7 +63,6 @@
       </p>
     </td>
   </tr>
-  <tr><td colspan="2" height="0"><img src="assets/spacer.svg" width="2000" height="1" alt="" /></td></tr>
 </table>
 
 ### 📫 Get in touch
@@ -81,9 +81,8 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><sub>📍 Birmingham, UK · Open to graduate and junior developer roles</sub></td>
+    <td colspan="2" align="center"><sub>📍 Birmingham, UK · Open to graduate and junior developer roles</sub><br /><img src="assets/spacer.svg" width="2000" height="1" alt="" /></td>
   </tr>
-  <tr><td colspan="2" height="0"><img src="assets/spacer.svg" width="2000" height="1" alt="" /></td></tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1B3E&height=100&section=footer" width="100%" />
