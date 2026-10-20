@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Apps+with+React+%26+React+Native;Android+apps+in+Java;Currently+learning+Swift+%26+iOS;Firebase+%7C+Supabase+%7C+REST+APIs;Open+to+graduate+developer+roles" alt="Typing SVG" /></a>
 
-<a href="https://inspec-studio.com"><img src="assets/website.svg" alt="Website" /></a>
+<a href="https://inspec-studio.com"><img src="assets/website.svg?v=2" alt="Website" /></a>
 
 </div>
 
@@ -35,7 +35,7 @@
       <h3>⭐ FlowFit: Workout Tracker <sub><sup>· live on the App Store</sup></sub></h3>
       <p>A workout and nutrition tracker for iPhone that I designed, built and shipped to the App Store myself. You can log meals and workouts, track calories and macros with AI-assisted analysis, build custom foods and meals, and follow your progress through daily, weekly and monthly analytics.</p>
       <p>
-        <a href="https://apps.apple.com/app/id6751477419"><img src="assets/app-store.svg" alt="Download on the App Store" /></a>
+        <a href="https://apps.apple.com/app/id6751477419"><img src="assets/app-store.svg?v=2" alt="Download on the App Store" /></a>
       </p>
     </td>
   </tr>
